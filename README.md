@@ -1,2 +1,32 @@
-# milestone-2-time-agil
-Entrega do Milestone 2 - Gestão Ágil de Projetos.
+# Milestone 2 — Gestão Ágil e Governança de Projetos
+
+## Sobre o Repositório e Contexto dos Projetos
+Este repositório centraliza a documentação ágil e os artefatos do **Milestone 2** da disciplina. 
+
+As atividades de gestão ágil e governança documental desenvolvidas nesta etapa utilizam o projeto **RepoEstudo** (plataforma colaborativa de materiais acadêmicos) como contexto fictício de padronização da disciplina, integrando também conceitos e requisitos do projeto integrador **AID (Assistente Inteligente de Diagnóstico Automotivo)**.
+
+---
+
+## Nota de Composição do Time
+Por alinhamento de grupo e reestruturação das equipes para esta entrega:
+- **Time do Milestone 2 (Repositório Atual):** Lucas (Scrum Master), Mateus (Product Owner), Kauã (Developer/Doc) e Vinícius (Developer/Doc).
+- **Esclarecimento:** O integrante Vinícius integra oficialmente esta entrega do Milestone 2 junto a Lucas, Mateus e Kauã, enquanto o integrante Victor atua em outra frente de trabalho, não fazendo parte deste repositório documental.
+
+---
+
+## Objetivo
+O objetivo principal deste projeto é aplicar as melhores práticas do framework Scrum e Kanban para estruturar a governança ágil do **RepoEstudo** e do **AID**. A documentação visa resolver a falta de padronização na gestão de requisitos, oferecendo transparência nos papéis, critérios de pronto (DoR/DoD), rastreabilidade de demandas por Issues e fluxo de trabalho visual.
+
+---
+
+## Time e Papéis
+- **Lucas Pereira Macêdo** — Scrum Master (Integrante 1)
+- **Kauã** — Developer / Documentador (Integrante 2)
+- **Vinícius** — Developer / Documentador (Integrante 3)
+- **Mateus** — Product Owner (Integrante 4)
+
+---
+
+## Estrutura da Documentação
+Toda a especificação detalhada do time (Papéis, DoR, DoD, limites de WIP, Matriz de Stakeholders e Plano de Comunicação) encontra-se no arquivo:
+👉 [`docs/time-agil.md`](docs/time-agil.md)
