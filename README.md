@@ -30,3 +30,4 @@ O objetivo principal deste projeto é aplicar as melhores práticas do framework
 ## Estrutura da Documentação
 Toda a especificação detalhada do time (Papéis, DoR, DoD, limites de WIP, Matriz de Stakeholders e Plano de Comunicação) encontra-se no arquivo:
 👉 [`docs/time-agil.md`](docs/time-agil.md)
+.
