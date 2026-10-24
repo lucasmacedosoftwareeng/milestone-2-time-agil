@@ -11,3 +11,13 @@ Uma issue é considerada **Pronta (Ready)** para ser puxada para a coluna **DOIN
 2. Possui critérios de aceitação específicos e testáveis.
 3. Possui uma classificação de prioridade definida via rótulo MoSCoW.
 4. Não possui dependências de documentação não resolvidas ou bloqueios externos.
+
+## Definition of Done (DoD)
+
+Uma issue é considerada **Concluída (Done)** quando atende a todas as seguintes condições:
+
+1. A implementação ou alteração solicitada foi realizada conforme os critérios de aceitação.
+2. A documentação relacionada foi atualizada, quando necessário.
+3. Os testes aplicáveis foram executados e aprovados.
+4. As alterações foram revisadas e estão prontas para integração ao projeto.
+5. A issue foi atualizada no quadro de gestão do projeto.
