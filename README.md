@@ -31,3 +31,19 @@ O objetivo principal deste projeto é aplicar as melhores práticas do framework
 Toda a especificação detalhada do time (Papéis, DoR, DoD, limites de WIP, Matriz de Stakeholders e Plano de Comunicação) encontra-se no arquivo:
 👉 [`docs/time-agil.md`](docs/time-agil.md)
 .
+
+
+---
+
+## Escopo do Projeto
+
+O **RepoEstudo — Repositório Colaborativo de Materiais de Estudo** tem como objetivo centralizar materiais acadêmicos organizados por disciplina, permitindo o compartilhamento de resumos, exercícios e videoaulas, além da avaliação dos materiais pelos estudantes.
+
+O escopo deste projeto contempla as seguintes funcionalidades principais:
+
+- **Upload de materiais:** envio de materiais de estudo pelos usuários.
+- **Busca e filtros:** localização de materiais por disciplina.
+- **Edição e exclusão:** gerenciamento dos materiais disponibilizados.
+- **Avaliação dos materiais:** registro da avaliação dos conteúdos compartilhados.
+
+O projeto busca facilitar o acesso aos materiais acadêmicos e promover a colaboração entre os estudantes.
