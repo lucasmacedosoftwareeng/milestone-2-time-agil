@@ -29,7 +29,7 @@ A comunicação do time é organizada por canais oficiais, cada um com uma final
 1. **WhatsApp/Discord:** usado para mensagens rápidas, avisos e dúvidas pontuais. Decisões de escopo, requisito ou prioridade não são consideradas oficiais se ficarem apenas nesses canais.
 2. **GitHub Issues:** canal oficial para decisões de requisito, escopo e priorização. Toda decisão tomada em conversa informal deve ser registrada na Issue correspondente em até 24 horas.
 3. **GitHub Pull Requests:** canal oficial para revisão de código e documentação. Nenhum Pull Request é aprovado por quem o escreveu.
-4. **Daily (reunião síncrona de 15 minutos):** realizada [definir dias e horário], por Discord ou presencialmente. Cada integrante informa o que fez, o que fará e quais impedimentos encontrou.
+4. 4. **Daily (reunião síncrona de 15 minutos):** realizada às segundas, quartas e sextas, às 20h, por Discord ou presencialmente.
 5. **Reunião de planejamento e revisão:** realizada no início e no fim de cada ciclo, para priorizar o backlog e validar as entregas com o Product Owner.
 
 **Regras gerais:** impedimentos são comunicados no mesmo dia ao Scrum Master (Lucas); mensagens diretas devem ser respondidas em até 24 horas; empates de prioridade são decididos pelo Product Owner (Mateus).
