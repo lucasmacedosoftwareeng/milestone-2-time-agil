@@ -45,3 +45,46 @@ O time pode utilizar ferramentas de Inteligência Artificial (ChatGPT, Claude e 
 5. **Proteção de dados:** é proibido inserir senhas, chaves de API, tokens ou dados pessoais nos prompts.
 6. **Transparência:** todo uso relevante de IA é registrado no Log de Uso de IA, com ferramenta, objetivo, prompt principal e validação humana.
 7. **Responsabilidade:** o integrante que submete o conteúdo responde por ele, independentemente de ter sido gerado por IA.
+
+## Limites de WIP (Work in Progress)
+
+Os limites de WIP definem a quantidade máxima de tarefas que podem estar em andamento simultaneamente em cada etapa do desenvolvimento. O objetivo é evitar sobrecarga, melhorar o fluxo de trabalho e garantir entregas com qualidade.
+
+### Limites propostos
+
+| Etapa | Limite de tarefas |
+|---|---:|
+| A fazer | Sem limite |
+| Em andamento | 3 |
+| Em revisão | 2 |
+| Concluído | Sem limite |
+
+### Regras de utilização
+
+- Cada integrante deve priorizar a conclusão das tarefas iniciadas.
+- Novas tarefas só devem ser iniciadas quando houver disponibilidade.
+- Tarefas em revisão devem receber atenção antes de novas implementações.
+- O quadro deve ser atualizado conforme o andamento do projeto.
+
+---
+
+## Matriz de Stakeholders / RACI
+
+Legenda:
+- **R (Responsible):** responsável pela execução.
+- **A (Accountable):** responsável pela aprovação e decisão final.
+- **C (Consulted):** consultado durante a execução.
+- **I (Informed):** informado sobre o andamento.
+
+### Matriz inicial de responsabilidades
+
+| Atividade | Integrante 1 | Integrante 2 | Vinícius |
+|---|---|---|---|
+| Planejamento do projeto | A | C | I |
+| Desenvolvimento | C | R | R |
+| Documentação | I | C | R |
+| Modelagem do banco de dados | C | R | C |
+| Testes e validação | A | R | C |
+| Revisão de Pull Requests | A | C | R |
+
+> **Atenção:** os limites de WIP e a distribuição RACI acima são propostas para validação. Confirme os nomes dos integrantes e as responsabilidades reais da equipe antes de incorporar esta seção à documentação oficial.
